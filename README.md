@@ -16,6 +16,8 @@ A program that will display the given menu:
 | 9. Return a Book (optional)|
 | 10. Exit|
 
+* The data (student and book records) are stored in a .txt file for permanent storage
+  
 ## Developers
 * Andreana Denise Cadeliña
 * John Nicholas Paguirigan
