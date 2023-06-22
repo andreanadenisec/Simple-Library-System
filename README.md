@@ -18,11 +18,6 @@ A program that will display the given menu:
 
 * The data (student and book records) are stored in a .txt file for permanent storage
 
-## Screenshots
-![image](https://github.com/andreanadenisec/Simple-Library-System/assets/69505388/1b6685c6-2553-4ed0-bb64-abf2284060f5)
-![image](https://github.com/andreanadenisec/Simple-Library-System/assets/69505388/e15a1dec-f6b8-4b6d-b1d6-beea9a3e9cc2)
-![image](https://github.com/andreanadenisec/Simple-Library-System/assets/69505388/401a4ed4-fa13-454e-ab7f-a1ae0958567d)
-
 ## Developers
 * Andreana Denise Cadeliña
 * John Nicholas Paguirigan
