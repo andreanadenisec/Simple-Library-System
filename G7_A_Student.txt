@@ -1,0 +1,14 @@
+ID number		Surname		First name		Age		Sex
+
+12345			Potter		Harry James		20		M
+65478			Granger		Hermione Jean		20		F
+67831			Weasley		Ronald Bilius		19		M
+56432			Malfoy		Draco Lucuis		20		M
+91823			Thomas		Dean Henry		19		M
+98234			Diggory		Cedric Amos		20 		M
+56782			Brown 		Lavander Mae		20 		F
+62345			Abbott		Hannah Jessica		20		F
+92831			Finnigan	John Seamus		19		M
+87891			Fletchey	Justin Finch		19		M
+
+

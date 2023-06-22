@@ -1,0 +1,1 @@
+java -jar G7_A_MP5.jar

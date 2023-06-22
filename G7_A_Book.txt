@@ -1,0 +1,13 @@
+Book Number			Title of the Book			Author's Name			Purchase Date			Status
+
+87321			Introduction to Computing			Evans, David			10-15-2019			Available
+34835			Beginning Database Design			Churcher, Clare			10-17-2019			Available
+73459			Math in the Modern World			Hathaway, Dale			03-01-2020			Available
+34534			Introduction to Algorithms			Cormen, Thomas			06-13-2020			Available
+23746			Practical Web Development			Wellens, Paul			09-01-2020			Unavailable
+99887			Starting Out with Python			Gaddis, Tony			09-05-2020			Available
+19264			Designing with Web Standards			Zeldman, Jeffrey		10-10-2020			Available
+74210			Internetworking with TCP/IP			Comer, Douglas			11-29-2020			Available
+32821			The Art of Computer Programming			Knuth, Donald			08-12-2020			Available
+92876			Mastering Python Networking			Chou, Eric			09-23-2020			Available
+						
